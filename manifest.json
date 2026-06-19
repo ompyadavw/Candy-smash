@@ -1,0 +1,13 @@
+{
+  "background_color": "#170202",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Candy Smash",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Candy Smash",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Match-3 candy game",
+  "id": "com.candysmash.game"
+}
